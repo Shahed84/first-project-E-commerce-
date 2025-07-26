@@ -341,7 +341,7 @@ footer p{
     text-align: center;
     
 }
-    /*mobile view*/
+    mobile view
 @media(max-width:768px)
     body{
 max-width: 50%;
