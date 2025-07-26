@@ -342,7 +342,38 @@ footer p{
     
 }
     /*mobile view*/
-@media(max-width:768px){
-width: 50%;
+@media(max-width:768px)
+    body{
+max-width: 50%;
+    justify-content: center;
+    align-items: center; 
+
+}
+.last{
+    font-size: ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.last div{
+    width:350px ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    
+}
+
+.icon{
+    position: fixed;
+    right: 88%;
+}
+section .searchbox{
+    right: 50px;
+}
+section .logo{
+    position: absolute;
+    left: 50px;
+    top: 50px;
 }
     
